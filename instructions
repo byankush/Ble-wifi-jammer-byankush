@@ -1,0 +1,8 @@
+requirements :
+esp32 wroom 8 pin
+nrf24l01 w amp x2
+nrf adapters for voltage regulation x2
+f-f jumper cables 
+laptop with arduino ide and install rh24 + ezbutton 
+make circuit and flash the code using arduino ide 
+all set!
